@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "362621884586",
+    "project_id": "learningfirebase-dc7fb",
+    "storage_bucket": "learningfirebase-dc7fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362621884586:android:b4ac976e82a4d0972f18d3",
+        "android_client_info": {
+          "package_name": "com.fourbytes.learningfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "362621884586-kase9r4ug0l0c1ap1j8jmbr3kma4bc3c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIBse1queeGLqC_JuS9y_ftXqhDO2QZ9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "362621884586-kase9r4ug0l0c1ap1j8jmbr3kma4bc3c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
